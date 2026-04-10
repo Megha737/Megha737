@@ -54,5 +54,5 @@ I am a developer who believes that **functionality** should meet **stunning desi
 ### 📫 Connect with Me
 <p align="left">
   <a href="(https://www.linkedin.com/in/megha-chakraborty-7a6778328?utm_source=share_via&utm_content=profile&utm_medium=member_android)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:meghaachakraborty2112@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:meghachakraborty2112@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
