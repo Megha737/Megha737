@@ -1,15 +1,6 @@
-<div align="center">
-  <h1>Hi, I'm Megha! 👋</h1>
-  <p><strong>BCA Student | Full-Stack Web Developer | UI/UX Enthusiast</strong></p>
+I am a BCA student, Full-Stack Developer, and aspiring Data Analyst who thrives at the intersection of aesthetic design and functional data insights. I build immersive web experiences—featuring modern 'Bento Box' and 'Cyber-Grid' layouts—while leveraging Python, SQL, and data visualization tools to transform complex datasets into actionable intelligence.
 
-  <p>
-    <a href="https://github.com/Megha737">
-      <img src="https://img.shields.io/badge/Location-India-orange?style=flat-square&logo=googlemaps" alt="Location">
-    </a>
-    <img src="https://img.shields.io/badge/Main_Stack-Next.js%20%7C%20Python-blue?style=flat-square" alt="Stack">
-    <img src="https://img.shields.io/badge/Focus-UI%2FUX%20%26%203D-ff69b4?style=flat-square" alt="Focus">
-  </p>
-</div>
+My project experience includes building AI-driven fraud detection systems, precision agriculture analytics, and multilingual conversational platforms. I am passionate about solving real-world problems through clean, scalable, and intuitive technology, and I am currently focused on integrating robust data analysis with high-performance web applications.
 
 ---
 
