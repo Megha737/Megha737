@@ -36,8 +36,8 @@ I am a BCA student, Full-Stack Developer, and **data-driven problem solver** who
 
 ## 📫 Let's Connect
 * 📧 **Email**: meghachakraborty2112@gmail.com
-* 💼 **LinkedIn**: [Add your LinkedIn Link Here]
-* 🌐 **Portfolio**: [Add your Netlify Link Here]
+* 💼 **LinkedIn**: https://www.linkedin.com/in/megha-chakraborty-7a6778328/
+* 🌐 **Portfolio**: https://jocular-dusk-25a000.netlify.app/
 
 ---
 *Built with ❤️ by Megha Chakraborty*
